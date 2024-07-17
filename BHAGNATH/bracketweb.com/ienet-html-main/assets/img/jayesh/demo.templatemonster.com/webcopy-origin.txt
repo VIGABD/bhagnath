@@ -1,0 +1,22 @@
+Uri: https://account.templatemonster.com/cp/default.js
+File Name: C:\Downloaded Web Sites\demo.templatemonster.com\cp\default-1.js
+Content Type: application/javascript
+
+Uri: https://demo.templatemonster.com/demo/213519.html?_gl=1*1uc03we*_gcl_au*MzAwMDA3OTkxLjE3MjEwMjU1ODU.*_ga*MTM3MzgyODY5MC4xNzIxMDI1NTgy*_ga_FTPYEGT5LY*MTcyMTAyNTU4MS4xLjEuMTcyMTAyNjQxNC41Ny4wLjA
+File Name: C:\Downloaded Web Sites\demo.templatemonster.com\demo\213519.html
+Content Type: text/html
+
+Uri: https://demo.templatemonster.com/favicon.ico
+File Name: C:\Downloaded Web Sites\demo.templatemonster.com\favicon-1.ico
+Content Type: image/x-icon
+
+Uri: https://demo.templatemonster.com/safari-pinned-tab.svg
+File Name: C:\Downloaded Web Sites\demo.templatemonster.com\safari-pinned-tab-1.svg
+Content Type: image/svg+xml
+
+Uri: https://s.tmimgcdn.com/scr/1200x627/213500/netline-broadband-internet-responsive-wordpress-theme_213519-original.jpg
+File Name: C:\Downloaded Web Sites\demo.templatemonster.com\scr\1200x627\213500\netline-broadband-internet-responsive-wordpress-theme_213519-original.jpg
+Content Type: image/jpeg
+
+
+
